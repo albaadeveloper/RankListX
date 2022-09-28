@@ -1,0 +1,15 @@
+name: RankListX
+main: AlbaaGaming22\RankListX\Main
+api: [4.0.0]
+version: 1.0.0
+author: AlbaaGaming22
+
+commands:
+  ranks:
+    description: "Open RankList"
+    permission: rk.use
+
+permissions:
+  rk.use:
+    description: "/rk.use"
+    default: true
